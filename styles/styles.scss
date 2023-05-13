@@ -3,15 +3,24 @@
 //     position: absolute  ;
 // }
 
-.crayons-avatar__image{
-    border-radius: 20px;
-    height: 27px;
-    width: 27px;
-    margin-right: 10px;
+.crayons-avatar__image {
+  border-radius: 20px;
+  height: 27px;
+  width: 27px;
+  margin-right: 10px;
 }
- #offcanvasNavbar{
-    width: 70%;
-    position: fixed;
-    height: 100%;
-    overflow-y: auto;
- }
+#offcanvasNavbar {
+  width: 70%;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#btn {
+  height: 90px;
+  margin-top: 500px;
+}
+
+.card {
+  width: 100%;
+}
